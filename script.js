@@ -17,12 +17,3 @@
 // 	};
 // new Chart(graph, config);
 
-const chart-wrap {
-    --chart-width:420px;
-    --grid-color:#aaa;
-    --bar-color:#F16335;
-    --bar-thickness:40px;
-    --bar-rounded: 3px;
-    --bar-spacing:10px;
-    width:var(--chart-width);
-}
